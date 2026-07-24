@@ -1,0 +1,12 @@
+{
+  "fonts": [
+    { "family": "Sora", "style": "Regular" },
+    { "family": "Sora", "style": "Medium" },
+    { "family": "Sora", "style": "SemiBold" },
+    { "family": "Sora", "style": "Bold" },
+    { "family": "Inter", "style": "Regular" },
+    { "family": "Inter", "style": "Medium" },
+    { "family": "Inter", "style": "SemiBold" },
+    { "family": "Inter", "style": "Bold" }
+  ]
+}
